@@ -1,4 +1,4 @@
-run = "python3 -m http.server"
+run = "node server.js"
 entrypoint = "server.js"
 hidden = [".config", "package-lock.json"]
 
